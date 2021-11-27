@@ -8,5 +8,5 @@ spring:
         default-label: main
         git:
           uri: https://github.com/AllanCruzX/microservice-repo
-          search-paths: fornecedor          
+          search-paths: fornecedor, loja, transportador          
         
